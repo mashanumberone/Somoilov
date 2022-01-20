@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+   <p><img src="https://mars.algoritmika.org/uploads/2021/01/logo_0_1611261359.svg" />Photos</p> 
+    </header>
+    
+
+    <main>
+    <h1> Самойлов и Ко </h1>
+    <img src="https://mars.algoritmika.org/uploads/2021/01/happy-family-2284698_1920%201_0_1611261360.png" />
+    <img src="https://mars.algoritmika.org/uploads/2021/01/children-817368_1920%201_0_1611261360.png" />
+    <img src="https://mars.algoritmika.org/uploads/2021/01/house-1158139_1920%201_0_1611261360.png" />
+    </main>
+
+<h2> Мы - семья Самойловых🤩 </h2>
+    <p> папа Алекс - инженер , архитектор </p>
+    <p> мама Наталья - ландшафтный дизайнер , флорист </p>
+    <p> дети Джеймс и Алёна </p>
+    <p> пёс Джон - главный весёлый в компании </p>
+
+    <footer>
+        <p> Телефон : </p>
+        <p> Эл. почта : </p>
+    </footer>
+</body>
+</html> 
