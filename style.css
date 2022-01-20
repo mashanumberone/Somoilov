@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+header p {
+    font-size: 36px;
+    color: #000000;
+    background-color: #0776A0;
+    padding: 20px;
+}
+
+header img{
+    height: 30px;
+} 
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+}
+
+main img {
+    height: 200px;
+}
+
+footer {
+    background-color: #0776A0;
+    color: white;
+    padding: 10px;
+}
